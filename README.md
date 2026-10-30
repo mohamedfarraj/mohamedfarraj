@@ -1,13 +1,10 @@
 ## 👋 Hi, I’m Mohamed Farraj
 
-**Tech Lead | Senior Back-End Engineer | Full-Stack Architect**
-
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=80&lines=%20Tech+Lead+%7C+Senior+Back-End+Engineer+%7C+Full-Stack+Architect" alt="Typing SVG" />
 
 
-📍 Riyadh, Saudi Arabia
 📧 [muhamed.farraj@gmail.com](mailto:muhamed.farraj@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-farraj/) 
 
